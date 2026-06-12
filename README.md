@@ -1,5 +1,5 @@
 # Partial-Symbolic-Iterative-Neural-Reasoner
-This repository contains the official implementation of the **Partial Symbolic Iterative Neural Reasoner (-NR)** pipeline, a metacognitive neurosymbolic architecture designed to solve complex Constraint Satisfaction Problems (CSPs) under incomplete rule conditions.
+This repository contains the official implementation of the **Partial Symbolic Iterative Neural Reasoner ($\psi$-NR)** pipeline, a metacognitive neurosymbolic architecture designed to solve complex Constraint Satisfaction Problems (CSPs) under incomplete rule conditions.
 
 # Constraint Solving with Partial Symbolic Rules: A Neuro-Symbolic Pipeline (-NR)
 
